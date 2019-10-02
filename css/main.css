@@ -1,0 +1,163 @@
+/***** BASE STYLES *****/
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #2b2b2b;
+}
+
+#contact {
+    height: 250px;
+}
+
+#uses, #work {
+  height: 630px;
+}
+
+#about {
+  height: 500px;
+}
+
+/***** GRID *****/
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+/***** HEADER *****/
+
+header {
+    height: 600px;
+    background: url('../img/header-pic.png');
+    background-size: cover;
+}
+
+header h1 {
+    font-family: 'Lora', serif;
+    font-size: 30px;
+    color: #bbc085;
+    padding: 65px 0 65px 25px;
+    float: left;
+}
+
+nav {
+    float: right;
+    padding: 50px 25px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 21px;
+    color: #000000;
+    padding-left: 60px;
+}
+
+#cool-text {
+    color: #ffffff;
+}
+
+header h2 {
+    width: 1000px;
+    clear:both;
+    font-size: 72px;
+    line-height: 80px;
+    color: #9b9b9b;
+    padding: 20px 0 20px 25px;
+}
+
+header h2 span {
+    color: #2b2b2b;
+}
+
+/***** ABOUT *****/
+
+#logo {
+  width: 100px;
+  height: 100px;
+}
+
+#about p {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #000000;
+    font-size: 21px;
+    line-height: 40px;
+    text-align: center;
+}
+
+#about h2{
+  font-size: 40px;
+  text-align: center;
+}
+
+#coolabout {
+  color: #66ccff;
+}
+
+
+/***** HOW TO*****/
+
+#work {
+  background: url('../img/directions.png');
+  background-size: cover;
+}
+
+/***** USES *****/
+
+#uses {
+  background: url('../img/uses.jpg');
+  background-size: cover;
+}
+
+
+/***** CONTACT *****/
+
+#contact {
+  background-color: #999999;
+}
+
+#contact h1 {
+    line-height: 44px;
+}
+
+#contact a {
+    text-decoration: none;
+    color: #023665;
+    font-weight: bold;
+}
+
+#contact ul {
+    list-style: none;
+}
+
+#contact ul li {
+     display: inline-block;
+}
+
+#contact ul img {
+    font-size: 32px;
+    padding-right: 48px;
+}
+
+h4 {
+  display: inline;
+}
+
+#logo-contact {
+  width: 100px;
+  height: 100px;
+  margin-top: 140px;
+}
+
+#contactno {
+    color: #023665;
+}
