@@ -66,19 +66,6 @@ nav ul li a {
     color: #ffffff;
 }
 
-header h2 {
-    width: 1000px;
-    clear:both;
-    font-size: 72px;
-    line-height: 80px;
-    color: #9b9b9b;
-    padding: 20px 0 20px 25px;
-}
-
-header h2 span {
-    color: #2b2b2b;
-}
-
 /***** ABOUT *****/
 
 #logo {
@@ -133,23 +120,6 @@ header h2 span {
     text-decoration: none;
     color: #023665;
     font-weight: bold;
-}
-
-#contact ul {
-    list-style: none;
-}
-
-#contact ul li {
-     display: inline-block;
-}
-
-#contact ul img {
-    font-size: 32px;
-    padding-right: 48px;
-}
-
-h4 {
-  display: inline;
 }
 
 #logo-contact {
